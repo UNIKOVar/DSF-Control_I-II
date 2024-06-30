@@ -1,5 +1,13 @@
 # Data Science Fundamentals: Control de aprendizaje I y II
 
+
+### I. INTRODUCCIÓN AL PROYECTO
+
+Se estima que entre los años 2017 al 2022 hubo 883,061 muertes por Diabetes tipo II. Para el año 2022, de acuerdo con el Minsa un 96.5% de los casos de diabetes corresponde al tipo II. El tratamiento y gestión de la diabetes tipo II al ser una enfermedad crónica representa un costo económico y significativo tanto para los individuos como para el sistema de salud pública ya que conlleva un tratamiento de por vida. En este contexto, se propone como proyecto desarrollar un modelo de machine learning que permita clasificar a las personas de acuerdo al riesgo de padecer diabetes tipo II y recomendar tratamientos preventivos de acuerdo a la clasificación. 
+
+### II. PRESENTACIÓN AL EQUIPO
+
+
 | CURSO | N° CONTROL | Docente |
 | ----------- | ----------- | ----- |
 | Data Science  | 01 y 02 | Bch. Ms. Jordan King Rodriguez Mallqui |
@@ -14,21 +22,14 @@
 
  
 
-### I. OBJETIVO
+### III. OBJETIVO DEL PROYECTO
 
-El objetivo de este proyecto es aplicar el aprendizaje de machine learning a un problema específico de
-una industria, identificando las decisiones clave, métricas relevantes, y desarrollando un caso de
-negocio. El trabajo se presentará en un repositorio de GitHub, permitiendo la colaboración y el uso de
-herramientas de control de versiones.
+El objetivo del presente proyecto es elaborar un modelo de Machine Learning que pueda clasificar a las personas de acuerdo al riesgo de padecer diabetes tipo II en base a datos clínicos, biomédicos y/o ambientales disponibles y recomendar tratamientos preventivos de acuerdo a la clasificación. Con esto se reduciría la carga económica y emocional que conlleva el desarrollo de esta enfermedad sobre los individuos y la sociedad. El trabajo se presentará en un repositorio de GitHub, permitiendo la colaboración y el uso deherramientas de control de versiones.
 
  
 
-### II. REQUISITOS DE ENTREGA
+### IV. Estructura de las carpetas
 
-Al momento de subir su trabajo indicar el número de grupo (ID Grupo) al que pertenece y el ID Integrante que se encuentra en el Listado de equipo: Link de Google SheetsLinks to an external site..
-
-La presentación se realizará en la primera hora del día domingo 29 de junio. Cada grupo tendrá 3 minutos de exposición y 2 minutos para preguntas de los presentes. Durante la exposición, el equipo deberá tener la cámara web encendida. La elaboración de una presentación es opcional, pero su uso añadirá hasta 2 puntos adicionales para el equipo que la presente. La nota máxima es 20, y en caso de superar esta, se truncará a la nota máxima.
-
-Las preguntas realizadas por los asistentes sumarán puntos individuales. Las respuestas a las preguntas deberán ser proporcionadas por los integrantes del equipo que no expusieron.
+[Describir la estructura del repositorio]
 
 
