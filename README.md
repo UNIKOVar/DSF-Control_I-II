@@ -1,14 +1,16 @@
 # Data Science Fundamentals: Detección temprana y preventiva de Diabetes tipo II
-
-
-### I. INTRODUCCIÓN AL PROYECTO
+   
+ 
+  
+## I. Introducción al proyecto
 
 Se estima que entre los años 2017 al 2022 hubo 883,061 muertes por Diabetes tipo II. Para el año 2022, de acuerdo con el Minsa un 96.5% de los casos de diabetes corresponde al tipo II. El tratamiento y gestión de la diabetes tipo II al ser una enfermedad crónica representa un costo económico y significativo tanto para los individuos como para el sistema de salud pública ya que conlleva un tratamiento de por vida. 
 
 En este contexto, se propone como proyecto desarrollar un modelo de machine learning que permita clasificar a las personas de acuerdo al riesgo de padecer diabetes tipo II y recomendar tratamientos preventivos de acuerdo a la clasificación. 
+   
+ 
 
-
-### II. PRESENTACIÓN DEL EQUIPO
+## II. Presentación del equipo
 
 
 | CURSO | N° CONTROL | Docente |
@@ -23,16 +25,28 @@ En este contexto, se propone como proyecto desarrollar un modelo de machine lear
 | 6 | 28 | UCEDA HERNÁNDEZ, ERVIN | [ErvinUcedaH](https://github.com/ErvinUcedaH) |
 | 6 | 29 | VARILLAS LÓPEZ, MANUEL YSRRAEL | [UNIKOVar](https://github.com/UNIKOVar)|
 | 6 | 30 | VASQUEZ QUEZADA, LUIS MIGUEL | [luisveq99](https://github.com/luisveq99)|
+   
  
 
-### III. OBJETIVO DEL PROYECTO
+## III. Objetivo del proyecto
 
-El objetivo del presente proyecto es elaborar un modelo de Machine Learning que pueda clasificar a las personas de acuerdo al riesgo de padecer diabetes tipo II en base a datos clínicos, biomédicos y/o ambientales disponibles y recomendar tratamientos preventivos de acuerdo a la clasificación. Con esto se reduciría la carga económica y emocional que conlleva el desarrollo de esta enfermedad sobre los individuos y la sociedad. El trabajo se presentará en un repositorio de GitHub, permitiendo la colaboración y el uso deherramientas de control de versiones.
-
+El objetivo del presente proyecto es elaborar un modelo de Machine Learning que pueda **clasificar** a las personas de acuerdo al riesgo de padecer diabetes tipo II en base a datos clínicos, biomédicos y/o ambientales disponibles y **recomendar** tratamientos preventivos de acuerdo a la clasificación. 
+Con esto se reduciría la carga económica y emocional que conlleva el desarrollo de esta enfermedad sobre los individuos y la sociedad. El trabajo se presentará en un repositorio de GitHub, permitiendo la colaboración y el uso deherramientas de control de versiones.
+   
  
 
-### IV. Estructura de las carpetas
+## IV. Estructura de las carpetas
 
-[Describir la estructura del repositorio]
+El archivo cuenta con la estructura planteada en el control de aprendizaje:
+<!--ts-->
 
+* [I - Elección del problema](https://github.com/UNIKOVar/DSF-Control_I-II/tree/main/I%20-%20Elecci%C3%B3n%20del%20problema)
+
+* [II - Análisis del problema](https://github.com/UNIKOVar/DSF-Control_I-II/tree/main/II%20-%20An%C3%A1lisis%20del%20problema)
+
+* [III - Propuesta del caso de negocio](https://github.com/UNIKOVar/DSF-Control_I-II/tree/main/III%20-%20Propuesta%20del%20caso%20de%20negocio)
+
+<!--te-->
+
+Además se agrega una carpeta *[Anexos](https://github.com/UNIKOVar/DSF-Control_I-II/tree/main/Anexos)* con documentos relacionados al avance.
 
