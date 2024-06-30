@@ -37,7 +37,7 @@ Con esto se reduciría la carga económica y emocional que conlleva el desarroll
 
 ## IV. Estructura de las carpetas
 
-El archivo cuenta con la estructura planteada en el control de aprendizaje:
+El repositorio cuenta con la estructura planteada en el control de aprendizaje:
 <!--ts-->
 
 * [I - Elección del problema](https://github.com/UNIKOVar/DSF-Control_I-II/tree/main/I%20-%20Elecci%C3%B3n%20del%20problema)
@@ -45,8 +45,26 @@ El archivo cuenta con la estructura planteada en el control de aprendizaje:
 * [II - Análisis del problema](https://github.com/UNIKOVar/DSF-Control_I-II/tree/main/II%20-%20An%C3%A1lisis%20del%20problema)
 
 * [III - Propuesta del caso de negocio](https://github.com/UNIKOVar/DSF-Control_I-II/tree/main/III%20-%20Propuesta%20del%20caso%20de%20negocio)
+   
+ 
+
+## IV. Enlaces a archivos
+
+Los archivos se encuentran en secciones dentro de la estructura de carpetas:
+<!--ts-->
+
+* [I - Elección del problema](https://github.com/UNIKOVar/DSF-Control_I-II/tree/main/I%20-%20Elecci%C3%B3n%20del%20problema)
+   * [A y B - Elección del problema y categorización](https://github.com/UNIKOVar/DSF-Control_I-II/blob/main/I%20-%20Elecci%C3%B3n%20del%20problema/A%20y%20B%20-%20Elecci%C3%B3n%20del%20problema%20y%20categorizaci%C3%B3n.md)
+     
+* [II - Análisis del problema](https://github.com/UNIKOVar/DSF-Control_I-II/tree/main/II%20-%20An%C3%A1lisis%20del%20problema)
+   * [A - Decisiones clave, métricas y palancas](https://github.com/UNIKOVar/DSF-Control_I-II/blob/main/II%20-%20An%C3%A1lisis%20del%20problema/A%20-%20Decisiones%20clave%2C%20m%C3%A9tricas%20y%20palancas.md)
+   * [B - Incertidumbre y resultados esperados](https://github.com/UNIKOVar/DSF-Control_I-II/blob/main/II%20-%20An%C3%A1lisis%20del%20problema/B%20-%20Incertidumbre%20y%20resultados%20esperados.md)
+     
+* [III - Propuesta del caso de negocio](https://github.com/UNIKOVar/DSF-Control_I-II/tree/main/III%20-%20Propuesta%20del%20caso%20de%20negocio)
+   * [A1 - Propuesta de Solución en ML](https://github.com/UNIKOVar/DSF-Control_I-II/blob/main/III%20-%20Propuesta%20del%20caso%20de%20negocio/A1%20-%20Propuesta%20de%20Soluci%C3%B3n%20en%20ML.md)
+   * [A2 - Metodología de propuesta](https://github.com/UNIKOVar/DSF-Control_I-II/blob/main/III%20-%20Propuesta%20del%20caso%20de%20negocio/A2%20-%20Metodolog%C3%ADa%20de%20propuesta.md)
+   * [B - Qué - Entonces qué - Ahora qué](https://github.com/UNIKOVar/DSF-Control_I-II/blob/main/III%20-%20Propuesta%20del%20caso%20de%20negocio/B%20-%20Qu%C3%A9%20-%20Entonces%20qu%C3%A9%20-%20Ahora%20qu%C3%A9.md)
+   * [C - Suposiciones y métricas](https://github.com/UNIKOVar/DSF-Control_I-II/blob/main/III%20-%20Propuesta%20del%20caso%20de%20negocio/C%20-%20Suposiciones%20y%20m%C3%A9tricas.md)
+   * [D - Valor monetario y acción a implementar](https://github.com/UNIKOVar/DSF-Control_I-II/blob/main/III%20-%20Propuesta%20del%20caso%20de%20negocio/D%20-%20Valor%20monetario%20y%20acci%C3%B3n%20a%20implementar.md)
 
 <!--te-->
-
-Además se agrega una carpeta *[Anexos](https://github.com/UNIKOVar/DSF-Control_I-II/tree/main/Anexos)* con documentos relacionados al avance.
-
